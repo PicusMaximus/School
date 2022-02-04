@@ -12,8 +12,7 @@ public class Binomialkoeffizient {
         if(n == ex){
             return ex;
         }
-        long result = fact(n-ex)*n;
-        return result;
+        return fact(n-ex)*n;
     }
 
     public static long binom(long n, long k){

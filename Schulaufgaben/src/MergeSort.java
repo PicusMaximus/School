@@ -3,7 +3,7 @@ import org.junit.Assert;
 
 import java.util.Arrays;
 
-public class Mergesort {
+public class MergeSort {
 
     public static void main(String[] args) {
         int[] toSort = {1,5,7,8,34,12,11,56};

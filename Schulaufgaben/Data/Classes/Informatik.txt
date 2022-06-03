@@ -1,0 +1,12 @@
+Fach;Informatik
+Vorname Nachname;Note
+Helbert Eble;3
+Mika Schnakenberg;2
+Adele Weidlich;5
+Meike Schiffers;3
+Mariele Höpfner;3
+Gitti Jansen;4
+Rosemaria Kirchhof;3
+Helrike Oettel;6
+Heini Mosel;4
+Lidwina Neudert;4

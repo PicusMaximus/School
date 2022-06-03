@@ -1,0 +1,12 @@
+Fach;Deutsch
+Vorname Nachname;Note
+Helbert Eble;4
+Mika Schnakenberg;4
+Adele Weidlich;6
+Meike Schiffers;3
+Mariele Höpfner;2
+Gitti Jansen;4
+Rosemaria Kirchhof;1
+Helrike Oettel;2
+Heini Mosel;2
+Lidwina Neudert;3

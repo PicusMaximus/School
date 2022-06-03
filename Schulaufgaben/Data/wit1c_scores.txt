@@ -1,0 +1,10 @@
+Helbert;Eble;4
+Mika;Schnakenberg;6
+Adele;Weidlich;3
+Meike;Schiffers;4
+Mariele;Höpfner;2
+Gitti;Jansen;4
+Rosemaria;Kirchhof;1
+Helrike;Oettel;3
+Heini;Mosel;4
+Lidwina;Neudert;3
